@@ -1,0 +1,23 @@
+{
+    "name": "Chuck Norris Joke Generator",
+    "version": "1.0.0",
+    "author": "Aidan Schneider",
+    "description": "A simple plugin which generates a random Chuck Norris Joke",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Chuck Norris Joke Generator",
+        "default_icon": {
+            "16": "/images/cn-16.png",
+            "32": "/images/cn-32.png",
+            "48": "/images/cn-48.png",
+            "128": "/images/cn-128.png"
+        },
+        "icons": {
+            "16": "/images/cn-16.png",
+            "32": "/images/cn-32.png",
+            "48": "/images/cn-48.png",
+            "128": "/images/cn-128.png"
+        }
+    }
+}
