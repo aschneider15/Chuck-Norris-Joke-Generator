@@ -8,3 +8,5 @@ Instant grati-Chuck-ation right at your fingertips! Thanks to the fine folks at 
 4. Enable developer mode.
 5. Click the option for "load unpackaged" extension. 
 6. Select the "Chuck Norris Browser Extension Folder."
+
+Warning: extension UI is very ugly because there is no styling.
